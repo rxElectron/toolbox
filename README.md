@@ -17,7 +17,7 @@ Toolbox is a versatile toolset that provides various functionalities including m
 ### Linux (Ubuntu, Arch Linux, Kali Linux)
 1. **Clone the repository**:
     ```sh
-    git clone https://github.com/yourusername/toolbox.git
+    git clone https://github.com/therboy/toolbox.git
     cd toolbox
     ```
 
@@ -91,7 +91,7 @@ Toolbox is a versatile toolset that provides various functionalities including m
 
 3. **Open Git Bash** and **clone the repository**:
     ```sh
-    git clone https://github.com/yourusername/toolbox.git
+    git clone https://github.com/therboy/toolbox.git
     cd toolbox
     ```
 
