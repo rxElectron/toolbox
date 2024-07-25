@@ -61,7 +61,7 @@ Toolbox is a versatile toolset that provides various functionalities including m
 
 3. **Clone the repository**:
     ```sh
-    git clone https://github.com/yourusername/toolbox.git
+    git clone https://github.com/therboy/toolbox.git
     cd toolbox
     ```
 
